@@ -78,7 +78,7 @@
             
 
             <footer class="login-section__footer">
-                <a href="/login-screen/create_user.php">Ainda não tenho uma conta</a>
+                <a href="/create_user.php">Ainda não tenho uma conta</a>
             </footer>
         </section>
     </main>

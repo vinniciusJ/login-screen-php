@@ -35,7 +35,7 @@
                 </div>
 
                 <section class="create-user-form__options">
-                    <a href="/login-screen/login.php">Cancelar</a>
+                    <a href="/login.php">Cancelar</a>
                     <button>Criar</button>
                 </section>
         </form>
