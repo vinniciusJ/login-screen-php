@@ -11,6 +11,7 @@
 
     <link rel="stylesheet" href="styles/global.css">
     <link rel="stylesheet" href="styles/create_user.css">
+    <link rel="shortcut icon" href="images/logo.svg">
 
     <title>Criar usuário</title>
 </head>

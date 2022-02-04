@@ -11,6 +11,7 @@
 
     <link rel="stylesheet" href="styles/global.css">
     <link rel="stylesheet" href="styles/success.css">
+    <link rel="shortcut icon" href="images/logo.svg">
 
     <title>Credenciais aceitas!</title>
 </head>
