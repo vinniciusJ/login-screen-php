@@ -1,0 +1,50 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--black-100);
+
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    background-color: var(--gray-300);
+
+    border: solid .125rem var(--gray-300);
+    border-radius: 1.5rem;
+    padding: 4rem 6rem;
+}
+
+.container__image img{
+    width: 30rem;
+}
+
+.container__message{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-left: 8rem;
+    width: 40rem;
+}
+
+.container__message p{
+    font-size: 2.5rem;
+
+    color: var(--light-gray-100);
+}
+
+.container__message p a{
+    color: var(--purple-100);
+    text-decoration: none;
+    transition: all .4s ease-in-out;
+}
+
+.container__message p a:hover{
+    text-decoration: underline;
+    color: var(--purple-300);
+}

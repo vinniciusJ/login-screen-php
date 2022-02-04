@@ -1,0 +1,37 @@
+:root{
+    --white-100: #F8F9FA;
+    --light-gray-100: #E9ECEF;
+    --light-gray-200: #DEE2E6;
+    --light-gray-500: #CED4DA;
+    --light-gray-800: #ADB5BD;
+    --gray-100: #6C757D;
+    --gray-300: #495057;
+    --gray-700: #343A40;
+    --black-100: #212529;
+    --purple-300: #6d65fa;
+    --purple-100: #857ff7;
+    --red-300: #d00000;
+
+    font-size: 50%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+button, input, textarea{
+    font-family: 'Roboto', sans-serif;
+    outline: none;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+
+body{
+    line-height: 1.5;
+}
